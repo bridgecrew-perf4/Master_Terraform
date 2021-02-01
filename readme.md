@@ -1,4 +1,6 @@
 # Terraform
+- review reference to see how a progessional followed these steps
+- review scratch to see how you followed these steps
 
 ## Projects
 - Provision EC2 based HTTP Servers with Load Balancer
